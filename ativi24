@@ -1,0 +1,2 @@
+texto = input("❄️Digite uma palavra ou frase❄️: ")
+print(f"Total de caracteres: {len(texto)}")
