@@ -1,0 +1,5 @@
+palavra = input("🎁Digite uma palavra🎁: ")
+vezes = int(input("🔔Digite quantas vezes repetir🔔: "))
+
+for _ in range(vezes):
+    print(palavra)
