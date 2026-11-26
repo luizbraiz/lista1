@@ -1,0 +1,4 @@
+reais = float(input("🌟Digite o valor em reais (R$)🌟: "))
+cotacao_dolar = 5.50
+dolares = reais / cotacao_dolar
+print(f"Valor em dólares: US$ {dolares:.2f}")
