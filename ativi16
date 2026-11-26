@@ -1,0 +1,3 @@
+num = float(input("❄️Digite um número❄️: "))
+print(f"Quadrado: {num ** 2}")
+print(f"Raiz quadrada: {num ** 0.5:.2f}")
